@@ -1,0 +1,8 @@
+.o-files/
+.vscode/
+convertedObjFiles/
+convertedStlFiles/
+objFiles/
+outputFile/
+stlFiles/
+txtFiles/
